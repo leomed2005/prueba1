@@ -1,0 +1,12 @@
+/Users/leo/test/Web Apps/QueueConsole/obj/Debug/netcoreapp2.1/TableConsole.csprojAssemblyReference.cache
+/Users/leo/test/Web Apps/QueueConsole/obj/Debug/netcoreapp2.1/TableConsole.csproj.CoreCompileInputs.cache
+/Users/leo/test/Web Apps/QueueConsole/obj/Debug/netcoreapp2.1/TableConsole.AssemblyInfoInputs.cache
+/Users/leo/test/Web Apps/QueueConsole/obj/Debug/netcoreapp2.1/TableConsole.AssemblyInfo.cs
+/Users/leo/test/Web Apps/QueueConsole/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/leo/test/Web Apps/QueueConsole/bin/Debug/netcoreapp2.1/TableConsole.deps.json
+/Users/leo/test/Web Apps/QueueConsole/bin/Debug/netcoreapp2.1/TableConsole.runtimeconfig.json
+/Users/leo/test/Web Apps/QueueConsole/bin/Debug/netcoreapp2.1/TableConsole.runtimeconfig.dev.json
+/Users/leo/test/Web Apps/QueueConsole/bin/Debug/netcoreapp2.1/TableConsole.dll
+/Users/leo/test/Web Apps/QueueConsole/bin/Debug/netcoreapp2.1/TableConsole.pdb
+/Users/leo/test/Web Apps/QueueConsole/obj/Debug/netcoreapp2.1/TableConsole.dll
+/Users/leo/test/Web Apps/QueueConsole/obj/Debug/netcoreapp2.1/TableConsole.pdb
